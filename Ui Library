@@ -159,7 +159,7 @@
 		-- >>>
 		SectionTab.Name = "SectionTab"
 		SectionTab.Parent = MainWindow
-		SectionTab.BackgroundColor3 = Color3.fromRGB(36, 36, 36)
+		SectionTab.BackgroundColor3 = Color3.fromRGB(10,10,10)
 		SectionTab.BackgroundTransparency = 1
 		SectionTab.Position = UDim2.new(0.046052631, 0, 0.142078027, 0)
 		SectionTab.Size = UDim2.new(0, 414, 0, 21)
@@ -212,7 +212,7 @@
 		SearchRound.Parent = Search
 		Searchbar.Name = "Searchbar"
 		Searchbar.Parent = MainWindow
-		Searchbar.BackgroundColor3 = Color3.fromRGB(49, 62, 71)
+		Searchbar.BackgroundColor3 = Color3.fromRGB(15,15,15)
 		Searchbar.BorderSizePixel = 0
 		Searchbar.Position = UDim2.new(0.86, 0, 0.0283687934, 0)
 		Searchbar.Size = UDim2.new(0, 0, 0, 21)
@@ -321,7 +321,7 @@
 			TabFrame.Name = name 
 			TabFrame.Parent = PageFoler
 			TabFrame.Active = true
-			TabFrame.BackgroundColor3 = Color3.fromRGB(39, 39, 39)
+			TabFrame.BackgroundColor3 = Color3.fromRGB(10,10,10)
 			TabFrame.BorderSizePixel = 0
 			TabFrame.Position = base
 			TabFrame.Size = UDim2.new(0, 412, 0, 200)
