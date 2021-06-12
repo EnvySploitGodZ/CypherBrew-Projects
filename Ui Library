@@ -475,7 +475,7 @@
 				local btnRound = Instance.new("UICorner")
 				NewButton.Name = "NewButton"
 				NewButton.Parent = TabFrame
-				NewButton.BackgroundColor3 = Color3.fromRGB(48,48,48)
+				NewButton.BackgroundColor3 = Color3.fromRGB(10,10,10)
 				NewButton.BorderSizePixel = 0
 				NewButton.Position = UDim2.new(0.144532919, 0, 0.00531914877, 0)
 				NewButton.Size = UDim2.new(0, 404, 0, 21)
